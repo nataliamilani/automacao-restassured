@@ -11,7 +11,7 @@ public class cepTest {
     
     @BeforeAll
     public static void setBaseURI() {
-        RestAssured.baseURI = "https://viacep.com.br/ws/";
+        RestAssured.baseURI = "https://viacep.com.br/ws";
     }
 
     @Test
