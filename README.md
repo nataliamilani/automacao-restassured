@@ -14,7 +14,7 @@
 
 Projeto referente a atividade da matéria de Automated Software Testing, para realizar testes usando framework RestAssured numa API pública.
 
-**API:** https://viacep.com.br/ws/<CEP>/json
+**API:** https://viacep.com.br/ws/{CEP}/json
 
   **Exemplo de uso da API:** https://viacep.com.br/ws/04279030/json
   
